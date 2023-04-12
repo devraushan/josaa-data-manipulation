@@ -1,0 +1,5 @@
+True answers count - 16
+False answers count - 35
+Positive Score - 64
+Negative Score - 35
+Total Scores - 29
